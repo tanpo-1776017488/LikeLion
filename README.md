@@ -1,3 +1,4 @@
-* Like Lion 
-** homework6 clone coding
+* member page
 ![ex_screenshot](./img/member.png)
+* home page
+![ex_screenshot](./img/home.png)
