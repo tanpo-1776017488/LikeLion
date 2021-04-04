@@ -1,0 +1,64 @@
+body{
+    background-color: white;
+}
+.img_box{
+    margin:0 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.img_ctr{
+    
+    width:250px;
+    height:250px;
+    margin:25px;
+    transform:rotate(-45deg);
+    margin-right: 100px;
+    overflow: hidden;
+    
+    
+}
+.iimg{
+    background: url(img/lilpump.jpg);
+    width:400px;
+    height: 400px;
+    margin:-80px;
+    transform:rotate(45deg);
+
+}
+.offset{
+    background: url(img/offset.jpg);
+    width:400px;
+    height: 400px;
+    margin:-80px;
+    transform:rotate(45deg);
+}
+.ari{
+    background: url(img/ari.jpg);
+    width:400px;
+    height: 400px;
+    margin:-80px;
+    transform:rotate(45deg);
+}
+.img_box_sec{
+    margin-top:-100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.sel{
+    background: url(img/sel.jfif);
+    width:400px;
+    height: 400px;
+    margin:-80px;
+    transform:rotate(45deg);
+}
+.mich{
+    background: url(img/mich.jfif);
+    width:400px;
+    height: 400px;
+    margin:-40px;
+    
+    transform:rotate(45deg);
+}
