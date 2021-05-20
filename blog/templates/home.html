@@ -12,11 +12,14 @@
 <body>
     <h1>Blog Project</h1>
     <div class='container'>
+    <div>
+        <a href="{%url 'new'%}">write blog</a>
+    </div>
     {% for blog in blogs %}
     <div>
         <h3>{{blog.title}}</h3>
         {{blog.writer}}
-        {{blog.summary}}<a href="{% url 'detail' blog.id %}">...more</a>
+        {{blog.summary}}<a href="{%url 'detail' blog.id %}">...more</a>
         <br>
     </div>    
     {% endfor %}
