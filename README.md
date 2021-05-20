@@ -1,11 +1,12 @@
-### CRUD
+## CRUD
 * C : create
-* R : read
+* __R : read__
 * U : update
 * D : delete
 
-### result
-## home.html   
-<img src='results/home.png'/>           
-## detail.html      
-<img src='results/detail.png'/>
+## result
+* ### new.html       
+<img src='results/create.png'/>     
+
+* ### redirect detail page    
+<img src='results/redirect_detail_page.png'/>
