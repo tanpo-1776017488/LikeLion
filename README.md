@@ -8,5 +8,5 @@
 * ### new.html       
 <img src='results/create.png'/>     
 
-* ### redirect detail page    
+* ### redirect generated detail page    
 <img src='results/redirect_detail_page.png'/>
