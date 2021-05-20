@@ -1,6 +1,6 @@
 ## CRUD
-* C : create
-* __R : read__
+* __C : create__
+* R : read
 * U : update
 * D : delete
 
