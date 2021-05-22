@@ -15,10 +15,10 @@
 ```new.html```
 <img src='results/block_usage.png'/>
 
-### online class
+## online class
 <img src='results/listen_class.png'/>
 
-### what is path-converter
+## what is path-converter
 * 장고는 MTV 구조임.
 * 하나의 페이지를 추가하기 위해서는 html file,view function, DB와 url추가 총 4가지 일이 필요함
 * 같은 포멧에 데이터만 달라지는 경우(개인정보 페이지, 상품 상세 페이지)를 전부 다 추가하는 것은 불가능함.
